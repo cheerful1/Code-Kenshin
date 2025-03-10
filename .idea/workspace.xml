@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa27a8f9-3444-4b96-83ae-f5eb6bf9ff7b" name="Changes" comment="day14">
+      <change afterPath="$PROJECT_DIR$/layernorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bpe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/data_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/random模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/rpoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/time_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module/test2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cheerful1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cheerful1/Code-Kenshin&quot;,
+    &quot;accountId&quot;: &quot;a1b8cb2f-d7a4-41db-bda8-eb500c6bd336&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sno3wWPRm3nSeeEF6J8bfxUdYA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Day01二分查找.executor": "Run",
+    "Python.Day02 螺旋矩阵.executor": "Run",
+    "Python.Day05快乐数.executor": "Run",
+    "Python.Day06两数之和.executor": "Run",
+    "Python.Day08 反转字符串2.executor": "Run",
+    "Python.[145]二叉树的后序遍历.executor": "Run",
+    "Python.[1]两数之和.executor": "Run",
+    "Python.[239]滑动窗口最大值.executor": "Run",
+    "Python.[27]移除元素.executor": "Run",
+    "Python.[347]前 K 个高频元素.executor": "Run",
+    "Python.[59]螺旋矩阵 II.executor": "Run",
+    "Python.bpe.executor": "Run",
+    "Python.data_test.executor": "Run",
+    "Python.hahlib.executor": "Debug",
+    "Python.layernorm.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.random模块.executor": "Run",
+    "Python.rpoe.executor": "Debug",
+    "Python.test.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.time_test.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/program/anaconda/Scripts/conda.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\算法\code\链表" />
+      <recent name="G:\算法\code\数组" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.[145]二叉树的后序遍历">
+    <configuration name="[145]二叉树的后序遍历" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[145]二叉树的后序遍历.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bpe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/bpe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hahlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/hahlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="layernorm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/layernorm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/random模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.[145]二叉树的后序遍历" />
+        <item itemvalue="Python.hahlib" />
+        <item itemvalue="Python.random模块" />
+        <item itemvalue="Python.bpe" />
+        <item itemvalue="Python.layernorm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa27a8f9-3444-4b96-83ae-f5eb6bf9ff7b" name="Changes" comment="" />
+      <created>1739100503792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739100503792</updated>
+      <workItem from="1739100504900" duration="9810000" />
+      <workItem from="1739194420535" duration="13302000" />
+      <workItem from="1739340330384" duration="6679000" />
+      <workItem from="1739415017192" duration="623000" />
+      <workItem from="1739416705276" duration="599000" />
+      <workItem from="1739448259728" duration="4219000" />
+      <workItem from="1739587271333" duration="3632000" />
+      <workItem from="1739596421810" duration="598000" />
+      <workItem from="1739673934015" duration="32133000" />
+      <workItem from="1740104650853" duration="770000" />
+      <workItem from="1740109371035" duration="15864000" />
+      <workItem from="1740407040104" duration="727000" />
+      <workItem from="1740495429198" duration="6197000" />
+      <workItem from="1740572425604" duration="9602000" />
+      <workItem from="1740883883256" duration="13144000" />
+      <workItem from="1741073056103" duration="38727000" />
+      <workItem from="1741604521986" duration="4997000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1739101047491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739101047491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day01">
+      <option name="closed" value="true" />
+      <created>1739111887497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739111887497</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day01">
+      <option name="closed" value="true" />
+      <created>1739280700836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739280700836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day04">
+      <option name="closed" value="true" />
+      <created>1739781972328</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739781972328</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day05">
+      <option name="closed" value="true" />
+      <created>1739860813580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739860813580</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day06">
+      <option name="closed" value="true" />
+      <created>1739951442440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739951442440</updated>
+    </task>
+    <task id="LOCAL-00007" summary="day07">
+      <option name="closed" value="true" />
+      <created>1740038885514</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038885514</updated>
+    </task>
+    <task id="LOCAL-00008" summary="day08">
+      <option name="closed" value="true" />
+      <created>1740314753502</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740314753502</updated>
+    </task>
+    <task id="LOCAL-00009" summary="day09">
+      <option name="closed" value="true" />
+      <created>1740397240911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740397240911</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day10">
+      <option name="closed" value="true" />
+      <created>1740554813925</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740554813925</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day11">
+      <option name="closed" value="true" />
+      <created>1740668567723</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740668567723</updated>
+    </task>
+    <task id="LOCAL-00012" summary="day12">
+      <option name="closed" value="true" />
+      <created>1740926899841</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740926899842</updated>
+    </task>
+    <task id="LOCAL-00013" summary="day13">
+      <option name="closed" value="true" />
+      <created>1741419881741</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741419881741</updated>
+    </task>
+    <task id="LOCAL-00014" summary="day14">
+      <option name="closed" value="true" />
+      <created>1741614866912</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741614866912</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <MESSAGE value="day01" />
+    <MESSAGE value="day04" />
+    <MESSAGE value="day05" />
+    <MESSAGE value="day06" />
+    <MESSAGE value="day07" />
+    <MESSAGE value="day08" />
+    <MESSAGE value="day09" />
+    <MESSAGE value="day10" />
+    <MESSAGE value="day11" />
+    <MESSAGE value="day12" />
+    <MESSAGE value="day13" />
+    <MESSAGE value="day14" />
+    <option name="LAST_COMMIT_MESSAGE" value="day14" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module/rpoe.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$Day01.coverage" NAME="Day01二分查找 Coverage Results" MODIFIED="1739100547620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
+    <SUITE FILE_PATH="coverage/code$time_test.coverage" NAME="time_test Coverage Results" MODIFIED="1741143886632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$rpoe.coverage" NAME="rpoe Coverage Results" MODIFIED="1741247649262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$main.coverage" NAME="main Coverage Results" MODIFIED="1741008791022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="Y:/home/sunny/fastapi" />
+    <SUITE FILE_PATH="coverage/code$Day08_2.coverage" NAME="Day08 反转字符串2 Coverage Results" MODIFIED="1740310233999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串" />
+    <SUITE FILE_PATH="coverage/code$random.coverage" NAME="random模块 Coverage Results" MODIFIED="1741404946753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$Day06.coverage" NAME="Day06两数之和 Coverage Results" MODIFIED="1739937485843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/哈希" />
+    <SUITE FILE_PATH="coverage/code$_27_.coverage" NAME="[27]移除元素 Coverage Results" MODIFIED="1739106870815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../codeTemp/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/code$Day02_.coverage" NAME="Day02 螺旋矩阵 Coverage Results" MODIFIED="1739280122719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$_145_.coverage" NAME="[145]二叉树的后序遍历 Coverage Results" MODIFIED="1741612187809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/code$_59__II.coverage" NAME="[59]螺旋矩阵 II Coverage Results" MODIFIED="1739279651045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../codeTemp/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/code$_347__K_.coverage" NAME="[347]前 K 个高频元素 Coverage Results" MODIFIED="1740926626046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../codeTemp/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/code$bpe.coverage" NAME="bpe Coverage Results" MODIFIED="1741345303757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$layernorm.coverage" NAME="layernorm Coverage Results" MODIFIED="1741264970175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$_1_.coverage" NAME="[1]两数之和 Coverage Results" MODIFIED="1739938032896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../codeTemp/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/code$data_test.coverage" NAME="data_test Coverage Results" MODIFIED="1741144208229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1741093629593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$Day05.coverage" NAME="Day05快乐数 Coverage Results" MODIFIED="1739860707886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/哈希" />
+    <SUITE FILE_PATH="coverage/code$_239_.coverage" NAME="[239]滑动窗口最大值 Coverage Results" MODIFIED="1740668277572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../codeTemp/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1739767529559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表" />
+    <SUITE FILE_PATH="coverage/code$hahlib.coverage" NAME="hahlib Coverage Results" MODIFIED="1741438401324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/code$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1740151376831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+  </component>
+</project>
